@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/newsfeed_icon"
+        android:id="@+id/nav_news"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+    <item
+        android:icon="@drawable/events_icon"
+        android:id="@+id/nav_events"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+    <item
+        android:icon="@drawable/workshop_icon"
+        android:id="@+id/nav_workshops"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+    <item
+        android:icon="@drawable/sponsors_icon"
+        android:id="@+id/nav_sponsors"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+    <item
+        android:icon="@drawable/notification_icon"
+        android:id="@+id/nav_notification"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+    <item
+        android:icon="@drawable/about_icon"
+        android:id="@+id/nav_about"
+        app:showAsAction="always"
+        android:title="Newsfeed" />
+    <item
+        android:title="Our Team" android:id="@+id/nav_ourteam"/>
+    <item
+        android:title="Contact" android:id="@+id/nav_contact"/>
+    <item android:title="Reset Password" android:id="@+id/resetpassword"/>
+    <item
+        android:title="Logout" android:id="@+id/nav_logut"/>
+
+</menu>

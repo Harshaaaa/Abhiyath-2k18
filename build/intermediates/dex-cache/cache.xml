@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_83cb7b6d5982ed638edf6daba782dd58b5e265e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\.android\build-cache\e1b87c018041c4e27a4c5f1fadb7b3c1e81f0a57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a638cf85c66e4e536aa5be08f71c11cbd027281e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\.android\build-cache\e4a46d89bc28d0be646a1b1dc4428d16138f5b1b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccdfff1a6ef41acc8ca796853a27812e23639a1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\.android\build-cache\23e97817c5abdb1f5449580a14d101278bd02bcf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_45f3e62ee521db6cd916c862e0d63d895fc30f4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69872ca078fdb7210aed04ad9152b10a5b6f43a4">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3a06dad614f9fc186c2c520355fdc28a12817772\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\.android\build-cache\40b1fd067f8cb9900f2bab431c8058be91c290f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c13c5a670773e2885f60cecc0a601827cf013a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\busem\.android\build-cache\6478dc37070f4cc0db4b6fe4e3253e1ed18b73d0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\busem\Documents\GitHub\Abhiyanth2K18\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c4314a9934039ca29d4814e38baed7856e2f2907\classes.dex" />
+    </item>
+
+</items>

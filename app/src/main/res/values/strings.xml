@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Abhiyanth 2K18</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home_abhiyanth">HomeAbhiyanth</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_news_feed_post">NewsFeedPost</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_final_news_feed">FinalNewsFeed</string>
+    <string name="title_activity_events">Events</string>
+</resources>
